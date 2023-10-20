@@ -44,4 +44,4 @@ size_t print_list(const list_t *h)
 * list_len - check the code for ALX School students.
 * @h: name of the list
 * Return: the number of nodes.
-
+*/
